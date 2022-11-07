@@ -1,0 +1,15 @@
+C:\Users\Austin\Desktop\School Project\C#\Module 04\DVDCollection\obj\Debug\net6.0\DVDCollection.csproj.AssemblyReference.cache
+C:\Users\Austin\Desktop\School Project\C#\Module 04\DVDCollection\obj\Debug\net6.0\DVDCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Austin\Desktop\School Project\C#\Module 04\DVDCollection\obj\Debug\net6.0\DVDCollection.AssemblyInfoInputs.cache
+C:\Users\Austin\Desktop\School Project\C#\Module 04\DVDCollection\obj\Debug\net6.0\DVDCollection.AssemblyInfo.cs
+C:\Users\Austin\Desktop\School Project\C#\Module 04\DVDCollection\obj\Debug\net6.0\DVDCollection.csproj.CoreCompileInputs.cache
+C:\Users\Austin\Desktop\School Project\C#\Module 04\DVDCollection\bin\Debug\net6.0\DVDCollection.exe
+C:\Users\Austin\Desktop\School Project\C#\Module 04\DVDCollection\bin\Debug\net6.0\DVDCollection.deps.json
+C:\Users\Austin\Desktop\School Project\C#\Module 04\DVDCollection\bin\Debug\net6.0\DVDCollection.runtimeconfig.json
+C:\Users\Austin\Desktop\School Project\C#\Module 04\DVDCollection\bin\Debug\net6.0\DVDCollection.dll
+C:\Users\Austin\Desktop\School Project\C#\Module 04\DVDCollection\bin\Debug\net6.0\DVDCollection.pdb
+C:\Users\Austin\Desktop\School Project\C#\Module 04\DVDCollection\obj\Debug\net6.0\DVDCollection.dll
+C:\Users\Austin\Desktop\School Project\C#\Module 04\DVDCollection\obj\Debug\net6.0\refint\DVDCollection.dll
+C:\Users\Austin\Desktop\School Project\C#\Module 04\DVDCollection\obj\Debug\net6.0\DVDCollection.pdb
+C:\Users\Austin\Desktop\School Project\C#\Module 04\DVDCollection\obj\Debug\net6.0\DVDCollection.genruntimeconfig.cache
+C:\Users\Austin\Desktop\School Project\C#\Module 04\DVDCollection\obj\Debug\net6.0\ref\DVDCollection.dll

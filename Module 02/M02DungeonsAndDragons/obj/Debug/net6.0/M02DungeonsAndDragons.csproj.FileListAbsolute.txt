@@ -1,0 +1,15 @@
+C:\Users\Austin\Desktop\School Project\C#\Module 02\M02DungeonsAndDragons\obj\Debug\net6.0\M02DungeonsAndDragons.csproj.AssemblyReference.cache
+C:\Users\Austin\Desktop\School Project\C#\Module 02\M02DungeonsAndDragons\obj\Debug\net6.0\M02DungeonsAndDragons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Austin\Desktop\School Project\C#\Module 02\M02DungeonsAndDragons\obj\Debug\net6.0\M02DungeonsAndDragons.AssemblyInfoInputs.cache
+C:\Users\Austin\Desktop\School Project\C#\Module 02\M02DungeonsAndDragons\obj\Debug\net6.0\M02DungeonsAndDragons.AssemblyInfo.cs
+C:\Users\Austin\Desktop\School Project\C#\Module 02\M02DungeonsAndDragons\obj\Debug\net6.0\M02DungeonsAndDragons.csproj.CoreCompileInputs.cache
+C:\Users\Austin\Desktop\School Project\C#\Module 02\M02DungeonsAndDragons\bin\Debug\net6.0\M02DungeonsAndDragons.exe
+C:\Users\Austin\Desktop\School Project\C#\Module 02\M02DungeonsAndDragons\bin\Debug\net6.0\M02DungeonsAndDragons.deps.json
+C:\Users\Austin\Desktop\School Project\C#\Module 02\M02DungeonsAndDragons\bin\Debug\net6.0\M02DungeonsAndDragons.runtimeconfig.json
+C:\Users\Austin\Desktop\School Project\C#\Module 02\M02DungeonsAndDragons\bin\Debug\net6.0\M02DungeonsAndDragons.dll
+C:\Users\Austin\Desktop\School Project\C#\Module 02\M02DungeonsAndDragons\bin\Debug\net6.0\M02DungeonsAndDragons.pdb
+C:\Users\Austin\Desktop\School Project\C#\Module 02\M02DungeonsAndDragons\obj\Debug\net6.0\M02DungeonsAndDragons.dll
+C:\Users\Austin\Desktop\School Project\C#\Module 02\M02DungeonsAndDragons\obj\Debug\net6.0\refint\M02DungeonsAndDragons.dll
+C:\Users\Austin\Desktop\School Project\C#\Module 02\M02DungeonsAndDragons\obj\Debug\net6.0\M02DungeonsAndDragons.pdb
+C:\Users\Austin\Desktop\School Project\C#\Module 02\M02DungeonsAndDragons\obj\Debug\net6.0\M02DungeonsAndDragons.genruntimeconfig.cache
+C:\Users\Austin\Desktop\School Project\C#\Module 02\M02DungeonsAndDragons\obj\Debug\net6.0\ref\M02DungeonsAndDragons.dll

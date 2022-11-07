@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AStephens_M05Accessability_11062022/1.0.0": {
+        "runtime": {
+          "AStephens_M05Accessability_11062022.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AStephens_M05Accessability_11062022/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

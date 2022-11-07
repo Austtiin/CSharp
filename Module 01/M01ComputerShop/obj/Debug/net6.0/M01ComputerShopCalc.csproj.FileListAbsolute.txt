@@ -1,0 +1,15 @@
+C:\Users\Austin\Desktop\School Project\C#\Module 01\M01ComputerShopCalc\obj\Debug\net6.0\M01ComputerShopCalc.csproj.AssemblyReference.cache
+C:\Users\Austin\Desktop\School Project\C#\Module 01\M01ComputerShopCalc\obj\Debug\net6.0\M01ComputerShopCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Austin\Desktop\School Project\C#\Module 01\M01ComputerShopCalc\obj\Debug\net6.0\M01ComputerShopCalc.AssemblyInfoInputs.cache
+C:\Users\Austin\Desktop\School Project\C#\Module 01\M01ComputerShopCalc\obj\Debug\net6.0\M01ComputerShopCalc.AssemblyInfo.cs
+C:\Users\Austin\Desktop\School Project\C#\Module 01\M01ComputerShopCalc\obj\Debug\net6.0\M01ComputerShopCalc.csproj.CoreCompileInputs.cache
+C:\Users\Austin\Desktop\School Project\C#\Module 01\M01ComputerShopCalc\bin\Debug\net6.0\M01ComputerShopCalc.exe
+C:\Users\Austin\Desktop\School Project\C#\Module 01\M01ComputerShopCalc\bin\Debug\net6.0\M01ComputerShopCalc.deps.json
+C:\Users\Austin\Desktop\School Project\C#\Module 01\M01ComputerShopCalc\bin\Debug\net6.0\M01ComputerShopCalc.runtimeconfig.json
+C:\Users\Austin\Desktop\School Project\C#\Module 01\M01ComputerShopCalc\bin\Debug\net6.0\M01ComputerShopCalc.dll
+C:\Users\Austin\Desktop\School Project\C#\Module 01\M01ComputerShopCalc\bin\Debug\net6.0\M01ComputerShopCalc.pdb
+C:\Users\Austin\Desktop\School Project\C#\Module 01\M01ComputerShopCalc\obj\Debug\net6.0\M01ComputerShopCalc.dll
+C:\Users\Austin\Desktop\School Project\C#\Module 01\M01ComputerShopCalc\obj\Debug\net6.0\refint\M01ComputerShopCalc.dll
+C:\Users\Austin\Desktop\School Project\C#\Module 01\M01ComputerShopCalc\obj\Debug\net6.0\M01ComputerShopCalc.pdb
+C:\Users\Austin\Desktop\School Project\C#\Module 01\M01ComputerShopCalc\obj\Debug\net6.0\M01ComputerShopCalc.genruntimeconfig.cache
+C:\Users\Austin\Desktop\School Project\C#\Module 01\M01ComputerShopCalc\obj\Debug\net6.0\ref\M01ComputerShopCalc.dll

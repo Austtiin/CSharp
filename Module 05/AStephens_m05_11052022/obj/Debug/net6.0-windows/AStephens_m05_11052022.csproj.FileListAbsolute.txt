@@ -1,0 +1,17 @@
+C:\Users\Austin\Desktop\School Project\C#\Module 05\AStephens_m05_11052022\bin\Debug\net6.0-windows\AStephens_m05_11052022.exe
+C:\Users\Austin\Desktop\School Project\C#\Module 05\AStephens_m05_11052022\bin\Debug\net6.0-windows\AStephens_m05_11052022.deps.json
+C:\Users\Austin\Desktop\School Project\C#\Module 05\AStephens_m05_11052022\bin\Debug\net6.0-windows\AStephens_m05_11052022.runtimeconfig.json
+C:\Users\Austin\Desktop\School Project\C#\Module 05\AStephens_m05_11052022\bin\Debug\net6.0-windows\AStephens_m05_11052022.dll
+C:\Users\Austin\Desktop\School Project\C#\Module 05\AStephens_m05_11052022\bin\Debug\net6.0-windows\AStephens_m05_11052022.pdb
+C:\Users\Austin\Desktop\School Project\C#\Module 05\AStephens_m05_11052022\obj\Debug\net6.0-windows\AStephens_m05_11052022.csproj.AssemblyReference.cache
+C:\Users\Austin\Desktop\School Project\C#\Module 05\AStephens_m05_11052022\obj\Debug\net6.0-windows\AStephens_m05_11052022.Form1.resources
+C:\Users\Austin\Desktop\School Project\C#\Module 05\AStephens_m05_11052022\obj\Debug\net6.0-windows\AStephens_m05_11052022.csproj.GenerateResource.cache
+C:\Users\Austin\Desktop\School Project\C#\Module 05\AStephens_m05_11052022\obj\Debug\net6.0-windows\AStephens_m05_11052022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Austin\Desktop\School Project\C#\Module 05\AStephens_m05_11052022\obj\Debug\net6.0-windows\AStephens_m05_11052022.AssemblyInfoInputs.cache
+C:\Users\Austin\Desktop\School Project\C#\Module 05\AStephens_m05_11052022\obj\Debug\net6.0-windows\AStephens_m05_11052022.AssemblyInfo.cs
+C:\Users\Austin\Desktop\School Project\C#\Module 05\AStephens_m05_11052022\obj\Debug\net6.0-windows\AStephens_m05_11052022.csproj.CoreCompileInputs.cache
+C:\Users\Austin\Desktop\School Project\C#\Module 05\AStephens_m05_11052022\obj\Debug\net6.0-windows\AStephens_m05_11052022.dll
+C:\Users\Austin\Desktop\School Project\C#\Module 05\AStephens_m05_11052022\obj\Debug\net6.0-windows\refint\AStephens_m05_11052022.dll
+C:\Users\Austin\Desktop\School Project\C#\Module 05\AStephens_m05_11052022\obj\Debug\net6.0-windows\AStephens_m05_11052022.pdb
+C:\Users\Austin\Desktop\School Project\C#\Module 05\AStephens_m05_11052022\obj\Debug\net6.0-windows\AStephens_m05_11052022.genruntimeconfig.cache
+C:\Users\Austin\Desktop\School Project\C#\Module 05\AStephens_m05_11052022\obj\Debug\net6.0-windows\ref\AStephens_m05_11052022.dll

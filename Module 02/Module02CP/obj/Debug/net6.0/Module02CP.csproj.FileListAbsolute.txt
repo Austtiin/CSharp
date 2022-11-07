@@ -1,0 +1,15 @@
+C:\Users\Austin\Desktop\School Project\C#\Module 02\Module02CP\obj\Debug\net6.0\Module02CP.csproj.AssemblyReference.cache
+C:\Users\Austin\Desktop\School Project\C#\Module 02\Module02CP\obj\Debug\net6.0\Module02CP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Austin\Desktop\School Project\C#\Module 02\Module02CP\obj\Debug\net6.0\Module02CP.AssemblyInfoInputs.cache
+C:\Users\Austin\Desktop\School Project\C#\Module 02\Module02CP\obj\Debug\net6.0\Module02CP.AssemblyInfo.cs
+C:\Users\Austin\Desktop\School Project\C#\Module 02\Module02CP\obj\Debug\net6.0\Module02CP.csproj.CoreCompileInputs.cache
+C:\Users\Austin\Desktop\School Project\C#\Module 02\Module02CP\bin\Debug\net6.0\Module02CP.exe
+C:\Users\Austin\Desktop\School Project\C#\Module 02\Module02CP\bin\Debug\net6.0\Module02CP.deps.json
+C:\Users\Austin\Desktop\School Project\C#\Module 02\Module02CP\bin\Debug\net6.0\Module02CP.runtimeconfig.json
+C:\Users\Austin\Desktop\School Project\C#\Module 02\Module02CP\bin\Debug\net6.0\Module02CP.dll
+C:\Users\Austin\Desktop\School Project\C#\Module 02\Module02CP\bin\Debug\net6.0\Module02CP.pdb
+C:\Users\Austin\Desktop\School Project\C#\Module 02\Module02CP\obj\Debug\net6.0\Module02CP.dll
+C:\Users\Austin\Desktop\School Project\C#\Module 02\Module02CP\obj\Debug\net6.0\refint\Module02CP.dll
+C:\Users\Austin\Desktop\School Project\C#\Module 02\Module02CP\obj\Debug\net6.0\Module02CP.pdb
+C:\Users\Austin\Desktop\School Project\C#\Module 02\Module02CP\obj\Debug\net6.0\Module02CP.genruntimeconfig.cache
+C:\Users\Austin\Desktop\School Project\C#\Module 02\Module02CP\obj\Debug\net6.0\ref\Module02CP.dll

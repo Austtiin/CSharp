@@ -1,0 +1,15 @@
+C:\Users\Austin\Desktop\School Project\C#\Module 02\M02OfTheMonthClub\obj\Debug\net6.0\M02OfTheMonthClub.csproj.AssemblyReference.cache
+C:\Users\Austin\Desktop\School Project\C#\Module 02\M02OfTheMonthClub\obj\Debug\net6.0\M02OfTheMonthClub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Austin\Desktop\School Project\C#\Module 02\M02OfTheMonthClub\obj\Debug\net6.0\M02OfTheMonthClub.AssemblyInfoInputs.cache
+C:\Users\Austin\Desktop\School Project\C#\Module 02\M02OfTheMonthClub\obj\Debug\net6.0\M02OfTheMonthClub.AssemblyInfo.cs
+C:\Users\Austin\Desktop\School Project\C#\Module 02\M02OfTheMonthClub\obj\Debug\net6.0\M02OfTheMonthClub.csproj.CoreCompileInputs.cache
+C:\Users\Austin\Desktop\School Project\C#\Module 02\M02OfTheMonthClub\bin\Debug\net6.0\M02OfTheMonthClub.exe
+C:\Users\Austin\Desktop\School Project\C#\Module 02\M02OfTheMonthClub\bin\Debug\net6.0\M02OfTheMonthClub.deps.json
+C:\Users\Austin\Desktop\School Project\C#\Module 02\M02OfTheMonthClub\bin\Debug\net6.0\M02OfTheMonthClub.runtimeconfig.json
+C:\Users\Austin\Desktop\School Project\C#\Module 02\M02OfTheMonthClub\bin\Debug\net6.0\M02OfTheMonthClub.dll
+C:\Users\Austin\Desktop\School Project\C#\Module 02\M02OfTheMonthClub\bin\Debug\net6.0\M02OfTheMonthClub.pdb
+C:\Users\Austin\Desktop\School Project\C#\Module 02\M02OfTheMonthClub\obj\Debug\net6.0\M02OfTheMonthClub.dll
+C:\Users\Austin\Desktop\School Project\C#\Module 02\M02OfTheMonthClub\obj\Debug\net6.0\refint\M02OfTheMonthClub.dll
+C:\Users\Austin\Desktop\School Project\C#\Module 02\M02OfTheMonthClub\obj\Debug\net6.0\M02OfTheMonthClub.pdb
+C:\Users\Austin\Desktop\School Project\C#\Module 02\M02OfTheMonthClub\obj\Debug\net6.0\M02OfTheMonthClub.genruntimeconfig.cache
+C:\Users\Austin\Desktop\School Project\C#\Module 02\M02OfTheMonthClub\obj\Debug\net6.0\ref\M02OfTheMonthClub.dll

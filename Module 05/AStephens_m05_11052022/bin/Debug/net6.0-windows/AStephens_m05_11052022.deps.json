@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AStephens_m05_11052022/1.0.0": {
+        "runtime": {
+          "AStephens_m05_11052022.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AStephens_m05_11052022/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

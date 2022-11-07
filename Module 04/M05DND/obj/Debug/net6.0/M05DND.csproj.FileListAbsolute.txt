@@ -1,0 +1,15 @@
+C:\Users\Austin\Desktop\School Project\C#\Module 04\M05DND\bin\Debug\net6.0\M05DND.exe
+C:\Users\Austin\Desktop\School Project\C#\Module 04\M05DND\bin\Debug\net6.0\M05DND.deps.json
+C:\Users\Austin\Desktop\School Project\C#\Module 04\M05DND\bin\Debug\net6.0\M05DND.runtimeconfig.json
+C:\Users\Austin\Desktop\School Project\C#\Module 04\M05DND\bin\Debug\net6.0\M05DND.dll
+C:\Users\Austin\Desktop\School Project\C#\Module 04\M05DND\bin\Debug\net6.0\M05DND.pdb
+C:\Users\Austin\Desktop\School Project\C#\Module 04\M05DND\obj\Debug\net6.0\M05DND.csproj.AssemblyReference.cache
+C:\Users\Austin\Desktop\School Project\C#\Module 04\M05DND\obj\Debug\net6.0\M05DND.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Austin\Desktop\School Project\C#\Module 04\M05DND\obj\Debug\net6.0\M05DND.AssemblyInfoInputs.cache
+C:\Users\Austin\Desktop\School Project\C#\Module 04\M05DND\obj\Debug\net6.0\M05DND.AssemblyInfo.cs
+C:\Users\Austin\Desktop\School Project\C#\Module 04\M05DND\obj\Debug\net6.0\M05DND.csproj.CoreCompileInputs.cache
+C:\Users\Austin\Desktop\School Project\C#\Module 04\M05DND\obj\Debug\net6.0\M05DND.dll
+C:\Users\Austin\Desktop\School Project\C#\Module 04\M05DND\obj\Debug\net6.0\refint\M05DND.dll
+C:\Users\Austin\Desktop\School Project\C#\Module 04\M05DND\obj\Debug\net6.0\M05DND.pdb
+C:\Users\Austin\Desktop\School Project\C#\Module 04\M05DND\obj\Debug\net6.0\M05DND.genruntimeconfig.cache
+C:\Users\Austin\Desktop\School Project\C#\Module 04\M05DND\obj\Debug\net6.0\ref\M05DND.dll
